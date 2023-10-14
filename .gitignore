@@ -1,0 +1,4 @@
+# gitignore file for project
+
+# Ignore input files data within project
+data/
